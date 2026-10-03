@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Youssef 👋
 
-<!--
-**youssef-khemiri/youssef-khemiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Engineering Student @ ESPRIT**
 
-Here are some ideas to get you started:
+I’m interested in the intersection of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧮 **Applied Mathematics**
+* 🤖 **AI & Machine Learning**
+* 💻 **Computer Science**
+* 🧠 **Intelligent Systems**
+* ⚛️ **Theoretical Physics**
+
+I like understanding **why things work**, not just how to use them — from mathematical models and algorithms to the systems built on top of them.
+
+Currently learning, building, experimenting, and occasionally breaking things.
+
+```text
+Mathematics → Algorithms → Intelligence → Engineering
+```
+
+🚀 **Long-term:** Research & PhD in AI / Computational Science / Intelligent Systems.
